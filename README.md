@@ -32,6 +32,6 @@ The League of Legends Public API is a freely accessible interface that provides 
 
 ### [Data Dragon](https://developer.riotgames.com/docs/lol)
 
-Data Dragon is a resource provided by Riot Games, the developer of League of Legends, that contains all the game's static data, such as champions, items, maps, and other game assets that do not change during gameplay. Data Dragon is available in compressed JSON files, making it easy to download and process. One can further use data from Data Dragon to build League of Legends-related applications or perform exploratory data analysis. Not all static files can be found on the data dragon. Some assets were obtained from this [GitHub repository]([url](https://github.com/InFinity54/LoL_DDragon)).
+Data Dragon is a resource provided by Riot Games, the developer of League of Legends, that contains all the game's static data, such as champions, items, maps, and other game assets that do not change during gameplay. Data Dragon is available in compressed JSON files, making it easy to download and process. One can further use data from Data Dragon to build League of Legends-related applications or perform exploratory data analysis. Not all static files can be found on the data dragon. Some assets were obtained from this [GitHub repository](https://github.com/InFinity54/LoL_DDragon).
 
 
